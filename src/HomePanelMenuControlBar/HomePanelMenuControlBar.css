@@ -1,0 +1,50 @@
+.home-panel-menu-control-bar,
+.home-panel-menu-control-bar * {
+  box-sizing: border-box;
+}
+.home-panel-menu-control-bar {
+  padding: var(--spacing-sm, 8px) var(--spacing-md, 16px) var(--spacing-sm, 8px)
+    var(--spacing-md, 16px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-md, 16px);
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.home-panel-menu-control-bar .frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex: 1;
+  position: relative;
+}
+.home-panel-menu-control-bar .frame-699 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.home-panel-menu-control-bar .frame-6992 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-control-bar
+  .button-section-header-btn-camera-width-button-action-secondary-hko-instance {
+  flex-shrink: 0 !important;
+}
+.home-panel-menu-control-bar .button-current-location-instance {
+  flex-shrink: 0 !important;
+}

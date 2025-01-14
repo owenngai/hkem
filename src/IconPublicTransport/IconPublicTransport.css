@@ -1,0 +1,19 @@
+.icon-public-transport,
+.icon-public-transport * {
+  box-sizing: border-box;
+}
+.icon-public-transport {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.icon-public-transport .group-731 {
+  width: 71.56%;
+  height: 83.33%;
+  position: absolute;
+  right: 15.94%;
+  left: 12.5%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}

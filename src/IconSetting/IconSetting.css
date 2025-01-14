@@ -1,0 +1,10 @@
+.icon-setting-instance,
+.icon-setting-instance * {
+  box-sizing: border-box;
+}
+.icon-setting-instance {
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: visible;
+}

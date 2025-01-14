@@ -1,0 +1,18 @@
+/* Figma Styles of your File */:root {
+  /* Colors */
+  --temp-highlight-file-only: #a841f8;
+  --temp-highlight: #fc48b4;
+  --gradient-brand-cyan: linear-gradient(90deg, rgba(1, 188, 186, 1.00) 50%,rgba(54, 214, 199, 1.00) 100%);
+  --gradient-brand-teal: linear-gradient(90deg, rgba(12, 113, 135, 1.00) 25%,rgba(57, 170, 183, 1.00) 100%);
+  --gradient-semantic-light-green: linear-gradient(90deg, rgba(137, 186, 3, 1.00) 25%,rgba(175, 213, 55, 1.00) 100%);
+  --gradient-semantic-light-blue: linear-gradient(90deg, rgba(0, 203, 255, 1.00) 25%,rgba(63, 230, 255, 1.00) 100%);
+  --gradient-semantic-orange: linear-gradient(90deg, rgba(255, 172, 7, 1.00) 25%,rgba(255, 199, 69, 1.00) 100%);
+  --gradient-semantic-red: linear-gradient(90deg, rgba(245, 102, 106, 1.00) 25%,rgba(248, 141, 144, 1.00) 100%);
+  --gradient-semantic-blue: linear-gradient(90deg, rgba(54, 112, 194, 1.00) 23.499999940395355%,rgba(74, 144, 226, 1.00) 100%);
+  --gradient-semantic-dark-green: linear-gradient(90deg, rgba(12, 113, 135, 1.00) 0%,rgba(57, 170, 183, 1.00) 100%);
+
+  /* Fonts */
+  /* Effects */
+
+}
+

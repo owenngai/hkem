@@ -1,0 +1,10 @@
+.icon-layers-instance,
+.icon-layers-instance * {
+  box-sizing: border-box;
+}
+.icon-layers-instance {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}

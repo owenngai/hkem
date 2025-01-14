@@ -1,0 +1,16 @@
+.icon-menu-on-street-parking-space,
+.icon-menu-on-street-parking-space * {
+  box-sizing: border-box;
+}
+.icon-menu-on-street-parking-space {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-on-street-parking-space .clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

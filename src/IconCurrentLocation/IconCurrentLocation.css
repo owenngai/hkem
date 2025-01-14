@@ -1,0 +1,10 @@
+.icon-current-location-instance,
+.icon-current-location-instance * {
+  box-sizing: border-box;
+}
+.icon-current-location-instance {
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}

@@ -1,0 +1,26 @@
+.section-menu-section-button-type-car-park,
+.section-menu-section-button-type-car-park * {
+  box-sizing: border-box;
+}
+.section-menu-section-button-type-car-park {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  min-width: 70px;
+  max-width: 100px;
+  position: relative;
+}
+.section-menu-section-button-type-car-park
+  .section-menu-section-button-basic-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}
+
+/* nested override styles */
+
+.section-menu-section-button-type-car-park .icon-menu-car-park-instance {
+  flex-shrink: 0 !important;
+}

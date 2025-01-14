@@ -1,0 +1,29 @@
+.button-compass-circle-compass,
+.button-compass-circle-compass * {
+  box-sizing: border-box;
+}
+.button-compass-circle-compass {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+.button-compass-circle-compass .ellipse-86 {
+  background: var(--v62-text-and-background-white, #ffffff);
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.button-compass-circle-compass .icon-compass-instance {
+  width: 38px !important;
+  height: 38px !important;
+  position: absolute !important;
+  left: 50% !important;
+  translate: -50% -50% !important;
+  top: 50% !important;
+}

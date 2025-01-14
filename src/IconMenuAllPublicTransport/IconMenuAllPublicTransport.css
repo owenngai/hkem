@@ -1,0 +1,16 @@
+.icon-menu-all-public-transport,
+.icon-menu-all-public-transport * {
+  box-sizing: border-box;
+}
+.icon-menu-all-public-transport {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-all-public-transport .clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

@@ -1,0 +1,61 @@
+.button-radio-type-type-shortcut-state-default-icon-true,
+.button-radio-type-type-shortcut-state-default-icon-true * {
+  box-sizing: border-box;
+}
+.button-radio-type-type-shortcut-state-default-icon-true {
+  background: var(--color-blue-gray-300, #ecf5fe);
+  border-radius: var(--border-border-radius-radius-full, 48px);
+  padding: var(--spacing-sm, 8px) var(--spacing-md, 16px) var(--spacing-sm, 8px)
+    var(--spacing-md, 16px);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm, 8px);
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+.button-radio-type-type-shortcut-state-default-icon-true .frame-699 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-xs, 4px);
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.button-radio-type-type-shortcut-state-default-icon-true .icon-home-instance {
+  flex-shrink: 0 !important;
+}
+.button-radio-type-type-shortcut-state-default-icon-true .unit {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button-radio-type-type-shortcut-state-default-icon-true ._16 {
+  color: var(--surface-text-primary, #212121);
+  text-align: center;
+  font-family: var(--font-family-title, "NotoSans-Regular", sans-serif);
+  font-size: var(--font-size-xs, 14px);
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-radio-type-type-shortcut-state-default-icon-true .div {
+  color: var(--surface-text-primary, #212121);
+  text-align: center;
+  font-family: var(--font-family-title, "NotoSans-Regular", sans-serif);
+  font-size: var(--font-size-xs, 14px);
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

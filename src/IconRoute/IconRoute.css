@@ -1,0 +1,11 @@
+.icon-route-instance,
+.icon-route-instance * {
+  box-sizing: border-box;
+}
+.icon-route-instance {
+  flex-shrink: 0;
+  width: var(--icon-size, 24px);
+  height: var(--icon-size, 24px);
+  position: relative;
+  overflow: visible;
+}

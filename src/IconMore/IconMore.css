@@ -1,0 +1,19 @@
+.icon-more,
+.icon-more * {
+  box-sizing: border-box;
+}
+.icon-more {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.icon-more .shopicon {
+  width: 66.67%;
+  height: 66.67%;
+  position: absolute;
+  right: 16.67%;
+  left: 16.67%;
+  bottom: 16.67%;
+  top: 16.67%;
+  overflow: visible;
+}

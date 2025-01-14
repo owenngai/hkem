@@ -1,0 +1,31 @@
+.section-button-basic-type-more-state-default-mode-light,
+.section-button-basic-type-more-state-default-mode-light * {
+  box-sizing: border-box;
+}
+.section-button-basic-type-more-state-default-mode-light {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 56px;
+  min-height: 56px;
+  position: relative;
+}
+.section-button-basic-type-more-state-default-mode-light .icon-more-instance {
+  flex-shrink: 0 !important;
+  width: 32px !important;
+  height: 29px !important;
+}
+.section-button-basic-type-more-state-default-mode-light .div {
+  color: var(--surface-text-primary, #212121);
+  text-align: center;
+  font-family: var(--font-family-body, "SfPro-Regular", sans-serif);
+  font-size: var(--font-size-xs, 14px);
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

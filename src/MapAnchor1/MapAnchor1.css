@@ -1,0 +1,20 @@
+.map-anchor-1,
+.map-anchor-1 * {
+  box-sizing: border-box;
+}
+.map-anchor-1 {
+  height: 417px;
+  position: relative;
+}
+.map-anchor-1 .rectangle-457 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}

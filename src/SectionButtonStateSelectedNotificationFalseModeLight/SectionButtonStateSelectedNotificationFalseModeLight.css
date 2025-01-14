@@ -1,0 +1,23 @@
+.section-button-state-selected-notification-false-mode-light,
+.section-button-state-selected-notification-false-mode-light * {
+  box-sizing: border-box;
+}
+.section-button-state-selected-notification-false-mode-light {
+  border-style: solid;
+  border-color: var(--button-brand-primary, #01bcba);
+  border-width: 4px 0px 0px 0px;
+  padding: var(--spacing-sm, 8px);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm, 8px);
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+  min-height: 70px;
+  position: relative;
+}
+.section-button-state-selected-notification-false-mode-light
+  .section-button-basic-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}

@@ -1,0 +1,163 @@
+.home-panel-menu-panel-state-input-row-items-5,
+.home-panel-menu-panel-state-input-row-items-5 * {
+  box-sizing: border-box;
+}
+.home-panel-menu-panel-state-input-row-items-5 {
+  padding: var(--spacing-3xl, 60px) 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  height: 277px;
+  position: relative;
+  overflow: hidden;
+}
+.home-panel-menu-panel-state-input-row-items-5 .rectangle-462 {
+  background: var(--surface-background-light, #ffffff);
+  flex-shrink: 0;
+  width: 433px;
+  height: 194px;
+  position: absolute;
+  left: -3px;
+  bottom: 0px;
+}
+.home-panel-menu-panel-state-input-row-items-5 .panel-top-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}
+.home-panel-menu-panel-state-input-row-items-5 .holder {
+  background: var(--surface-background-light, #ffffff);
+  padding: 0px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5
+  .menu-page-home-menu-items-instance {
+  align-items: center !important;
+  justify-content: center !important;
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-695 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.home-panel-menu-panel-state-input-row-items-5 .latest-news {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-6952 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-6953 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .menu-my-bookmarks-instance {
+  flex-shrink: 0 !important;
+  width: 24px !important;
+  height: 24px !important;
+}
+.home-panel-menu-panel-state-input-row-items-5 .div {
+  color: var(--surface-text-primary, #212121);
+  text-align: center;
+  font-family: "SfPro-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-696 {
+  padding: 0px 16px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-6954 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 141px;
+  height: 128px;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .rectangle-450 {
+  background: var(--surface-background-disabled, #e0e0e0);
+  border-radius: 10px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-697 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 141px;
+  height: 128px;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5 .frame-698 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 141px;
+  height: 128px;
+  position: relative;
+}
+.home-panel-menu-panel-state-input-row-items-5
+  .home-panel-menu-control-bar-instance {
+  justify-content: flex-end !important;
+  flex-shrink: 0 !important;
+  width: 430px !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 0px !important;
+}

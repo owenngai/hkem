@@ -1,0 +1,16 @@
+.icon-menu-traffic-arrangement,
+.icon-menu-traffic-arrangement * {
+  box-sizing: border-box;
+}
+.icon-menu-traffic-arrangement {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-traffic-arrangement .clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

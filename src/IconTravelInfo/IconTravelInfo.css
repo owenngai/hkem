@@ -1,0 +1,20 @@
+.icon-travel-info,
+.icon-travel-info * {
+  box-sizing: border-box;
+}
+.icon-travel-info {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.icon-travel-info .group-140 {
+  width: 350%;
+  height: 350%;
+  position: absolute;
+  right: -120.83%;
+  left: -129.17%;
+  bottom: -154.17%;
+  top: -95.83%;
+  overflow: visible;
+}

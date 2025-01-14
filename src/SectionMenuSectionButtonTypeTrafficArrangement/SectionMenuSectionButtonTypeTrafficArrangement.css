@@ -1,0 +1,27 @@
+.section-menu-section-button-type-traffic-arrangement,
+.section-menu-section-button-type-traffic-arrangement * {
+  box-sizing: border-box;
+}
+.section-menu-section-button-type-traffic-arrangement {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  min-width: 70px;
+  max-width: 100px;
+  position: relative;
+}
+.section-menu-section-button-type-traffic-arrangement
+  .section-menu-section-button-basic-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}
+
+/* nested override styles */
+
+.section-menu-section-button-type-traffic-arrangement
+  .icon-menu-traffic-arrangement-instance {
+  flex-shrink: 0 !important;
+}

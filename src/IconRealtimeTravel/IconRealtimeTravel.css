@@ -1,0 +1,19 @@
+.icon-realtime-travel,
+.icon-realtime-travel * {
+  box-sizing: border-box;
+}
+.icon-realtime-travel {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.icon-realtime-travel .group-732 {
+  width: 91.67%;
+  height: 73.04%;
+  position: absolute;
+  right: 4.17%;
+  left: 4.17%;
+  bottom: 14.46%;
+  top: 12.5%;
+  overflow: visible;
+}

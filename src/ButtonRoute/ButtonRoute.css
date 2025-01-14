@@ -1,0 +1,50 @@
+.button-route,
+.button-route * {
+  box-sizing: border-box;
+}
+.button-route {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.2);
+}
+.button-route .rectangle-455 {
+  background: linear-gradient(
+    90deg,
+    rgba(1, 188, 186, 1) 53.17694544792175%,
+    rgba(54, 214, 199, 1) 100%
+  );
+  border-radius: 8px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.button-route .frame-699 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 29px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 21.5px);
+}
+.button-route .icon-route-instance {
+  flex-shrink: 0 !important;
+}
+.button-route .div {
+  color: var(--v62-text-and-background-white, #ffffff);
+  text-align: center;
+  font-family: var(--font-family-body, "SfPro-Bold", sans-serif);
+  font-size: var(--font-size-xxs, 12px);
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}

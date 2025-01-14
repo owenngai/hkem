@@ -1,0 +1,16 @@
+.icon-menu-traffic-webcast,
+.icon-menu-traffic-webcast * {
+  box-sizing: border-box;
+}
+.icon-menu-traffic-webcast {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-traffic-webcast .clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

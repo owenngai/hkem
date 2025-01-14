@@ -1,0 +1,25 @@
+.menu-page-home-menu-items-row-items-5,
+.menu-page-home-menu-items-row-items-5 * {
+  box-sizing: border-box;
+}
+.menu-page-home-menu-items-row-items-5 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm, 8px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.menu-page-home-menu-items-row-items-5 .row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.menu-page-home-menu-items-row-items-5 .section-menu-section-button-instance {
+  flex: 1 !important;
+  width: unset !important;
+}

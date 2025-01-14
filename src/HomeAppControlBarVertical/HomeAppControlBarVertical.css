@@ -1,0 +1,28 @@
+.home-app-control-bar-vertical,
+.home-app-control-bar-vertical * {
+  box-sizing: border-box;
+}
+.home-app-control-bar-vertical {
+  padding: var(--spacing-xs, 4px) 0px var(--spacing-xs, 4px) 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.home-app-control-bar-vertical .frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-app-control-bar-vertical .button-compass-instance {
+  flex-shrink: 0 !important;
+}
+.home-app-control-bar-vertical .button-layer-instance {
+  flex-shrink: 0 !important;
+}

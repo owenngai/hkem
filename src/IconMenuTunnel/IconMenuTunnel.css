@@ -1,0 +1,59 @@
+.icon-menu-tunnel,
+.icon-menu-tunnel * {
+  box-sizing: border-box;
+}
+.icon-menu-tunnel {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-tunnel .group-702 {
+  position: absolute;
+  inset: 0;
+}
+.icon-menu-tunnel .layer-1 {
+  width: 38.59px;
+  height: 26px;
+  position: absolute;
+  left: 3px;
+  top: 9px;
+  overflow: hidden;
+}
+.icon-menu-tunnel .vector {
+  width: 13.53%;
+  height: 40.57%;
+  position: absolute;
+  right: 0.08%;
+  left: 86.39%;
+  bottom: 11.01%;
+  top: 48.42%;
+  overflow: visible;
+}
+.icon-menu-tunnel .vector2 {
+  width: 13.53%;
+  height: 40.57%;
+  position: absolute;
+  right: 86.24%;
+  left: 0.23%;
+  bottom: 11.01%;
+  top: 48.42%;
+  overflow: visible;
+}
+.icon-menu-tunnel .l-9-ev-kk {
+  width: 100.01%;
+  height: 30.08%;
+  position: absolute;
+  right: -0.01%;
+  left: 0%;
+  bottom: 69.91%;
+  top: 0%;
+  overflow: visible;
+}
+.icon-menu-tunnel .subtract {
+  width: 18.59px;
+  height: 16.71px;
+  position: absolute;
+  left: 10px;
+  top: 9.29px;
+  overflow: visible;
+}

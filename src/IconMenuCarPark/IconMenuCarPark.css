@@ -1,0 +1,16 @@
+.icon-menu-car-park,
+.icon-menu-car-park * {
+  box-sizing: border-box;
+}
+.icon-menu-car-park {
+  width: 44px;
+  height: 44px;
+  position: relative;
+}
+.icon-menu-car-park .clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

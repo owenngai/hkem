@@ -1,0 +1,83 @@
+.home-app-header,
+.home-app-header * {
+  box-sizing: border-box;
+}
+.home-app-header {
+  padding: var(--spacing-3xl, 60px) var(--spacing-md, 16px)
+    var(--spacing-md, 16px) var(--spacing-md, 16px);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm, 8px);
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+}
+.home-app-header .frame-699 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-sm, 8px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.home-app-header .button-setting-instance {
+  flex-shrink: 0 !important;
+}
+.home-app-header .frame-695 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+}
+.home-app-header .input-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+  height: 48px !important;
+  border-style: unset !important;
+  border-color: unset !important;
+  border-width: unset !important;
+}
+.home-app-header .button-route-instance {
+  flex-shrink: 0 !important;
+}
+.home-app-header .frame-700 {
+  padding: 6px 0px 6px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-app-header .button-radio-type-instance {
+  flex-shrink: 0 !important;
+}
+.home-app-header .frame-744 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-app-header .home-app-control-bar-vertical-instance {
+  flex-shrink: 0 !important;
+}
+
+/* nested override styles */
+
+.home-app-header .icon-office-instance {
+  flex-shrink: 0 !important;
+}

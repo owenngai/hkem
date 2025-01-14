@@ -1,0 +1,39 @@
+.map-zoom-zoom-level-3,
+.map-zoom-zoom-level-3 * {
+  box-sizing: border-box;
+}
+.map-zoom-zoom-level-3 {
+  height: 967px;
+  position: relative;
+  overflow: hidden;
+}
+.map-zoom-zoom-level-3 .screenshot-2025-01-13-at-11-07-09-1 {
+  width: 104.85%;
+  height: 107.14%;
+  position: absolute;
+  right: -0.83%;
+  left: -4.01%;
+  bottom: -3.52%;
+  top: -3.62%;
+  object-fit: cover;
+}
+.map-zoom-zoom-level-3 .rectangle-458 {
+  background: #82c6ff;
+  width: 2.24%;
+  height: 6.2%;
+  position: absolute;
+  right: 97.76%;
+  left: 0%;
+  bottom: 93.8%;
+  top: 0%;
+}
+.map-zoom-zoom-level-3 .current-cursor-instance {
+  width: 3.08% !important;
+  height: 6.1% !important;
+  position: absolute !important;
+  right: 49% !important;
+  left: 47.92% !important;
+  bottom: 49.01% !important;
+  top: 44.88% !important;
+  transform: rotate(33.026deg) scale(1, 1) !important;
+}

@@ -1,0 +1,37 @@
+.app-menu-mode-light,
+.app-menu-mode-light * {
+  box-sizing: border-box;
+}
+.app-menu-mode-light {
+  background: var(--v62-text-and-background-white, #ffffff);
+  padding: 0px var(--spacing-xs, 4px) var(--spacing-lg, 24px)
+    var(--spacing-xs, 4px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  box-shadow: 0px -4px 10px 0px rgba(0, 0, 0, 0.1);
+}
+.app-menu-mode-light .section-button-instance {
+  justify-content: flex-start !important;
+  flex: 1 !important;
+}
+.app-menu-mode-light .home-indicator {
+  background: #000000;
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 134px;
+  height: 4px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 10px;
+}
+
+/* nested override styles */
+
+.app-menu-mode-light .section-button-basic-instance {
+  align-self: stretch !important;
+  flex-shrink: 0 !important;
+}

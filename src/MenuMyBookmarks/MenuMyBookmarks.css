@@ -1,0 +1,11 @@
+.menu-my-bookmarks-instance,
+.menu-my-bookmarks-instance * {
+  box-sizing: border-box;
+}
+.menu-my-bookmarks-instance {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

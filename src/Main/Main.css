@@ -1,0 +1,68 @@
+.main,
+.main * {
+  box-sizing: border-box;
+}
+.main {
+  background: var(--surface-background-light, #ffffff);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.main .map-holder {
+  flex-shrink: 0;
+  width: 430px;
+  height: 836px;
+  position: relative;
+  overflow: auto;
+}
+.main .map-zoom-instance {
+  width: 1918px !important;
+  position: absolute !important;
+  left: 50% !important;
+  translate: -50% !important;
+  top: -170px !important;
+}
+.main .map-anchor-1-instance {
+  opacity: 0 !important;
+  width: 430px !important;
+  height: 476px !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 111px !important;
+}
+.main .header {
+  flex-shrink: 0;
+  width: 430px;
+  height: 248px;
+  position: static;
+}
+.main .home-app-header-instance {
+  width: 430px !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 0px !important;
+}
+.main .fixed {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: sticky;
+  left: 0px;
+  bottom: 0px;
+}
+.main .home-panel-menu-panel-instance {
+  flex-shrink: 0 !important;
+  width: 430px !important;
+}
+.main .app-menu-instance {
+  flex-shrink: 0 !important;
+  width: 430px !important;
+}
