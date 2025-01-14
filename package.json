@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": ["react", "starter"],
-  "main": "src/index.jsx",
+  "main": "hkem/src/index.jsx",
   "dependencies": { "react": "18.0.0", "react-dom": "18.0.0" },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
